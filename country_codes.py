@@ -7,6 +7,6 @@ def get_country_code(country_name):
             return code
 # If the country wasn't found, return None
     return None
-print(get_country_code('Andorra'))
+''' print(get_country_code('Andorra'))
 print(get_country_code('United Arab Emirates'))
-print(get_country_code('Afghanistan'))
+print(get_country_code('Afghanistan')) '''
