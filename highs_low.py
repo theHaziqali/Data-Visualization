@@ -33,7 +33,7 @@ plt.ylabel("Temperature (F)", fontsize=16)
 fig.autofmt_xdate()
 plt.tick_params(axis='both', which='major', labelsize=16)
 plt.show()
-"""     print(header_row)
+""" '''     print(header_row)
 for index, column_header in enumerate(header_row):
     print(index, column_header)
  """
